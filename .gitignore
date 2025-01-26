@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 *storybook.log
+
+
+
+.nx/cache
+.nx/workspace-data
