@@ -2,12 +2,15 @@
 
 ## Use Vite + React
 
-Packages include
+Packages and libraries used include
 
 - Vitest
 - Storybook
 - Tailwind css
 - Clsx
+- chakra : https://v2.chakra-ui.com/docs/components/button/usage
+- cva : class variance authority library
+- tailwindcss merge
 
   ## \*\*Environment Setup
 
